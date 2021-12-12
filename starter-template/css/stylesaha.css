@@ -1,0 +1,28 @@
+.logosahaveiculos{
+    width: 137px;
+    height: 77px;
+    top:5px;
+    bottom: 5px;
+}
+
+nav ul a {
+    color: #000;
+}
+nav {
+    height:  66px;
+}
+.page-footer{
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #f23f3d ;
+    position:absolute;
+    bottom:0 ;
+    width:100%;
+}
+#download-button{
+    background-color: #f23f3d !important;
+}
+
+.buttonprint{
+    color: white;
+    background-color:#f23f3d;
+}
